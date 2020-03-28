@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="Venda_Facil_ProjetoIan/src"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/AbsoluteLayout.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/mysql-connector-java-5.1.23-bin.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/servlet.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/lib/swtgraphics2d.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/dist/Venda_Facil_ProjetoIan.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/Email/commons-email-1.5.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/Email/javax.mail.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/Email/mail-1.4.7.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/jcommon-1.0.23.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/jfreechart-1.0.19-experimental.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/jfreechart-1.0.19-swt.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/jfreechart-1.0.19.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/jfreesvg-2.0.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/junit-4.11.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/orsoncharts-1.4-eval-nofx.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/orsonpdf-1.6-eval.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/servlet.jar"/>
+	<classpathentry kind="lib" path="Venda_Facil_ProjetoIan/JFreeChartJava/swtgraphics2d.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="Venda_Facil_ProjetoIan/build/classes"/>
+</classpath>
